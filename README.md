@@ -6,18 +6,18 @@ O **DragAndDrop** é uma aplicação WEB para testar as funcionalidades dos even
 
 A aplicação contém as seguintes funcionalidades:
 
-### Index.html
+### Index.html 📕
 
-- Você pode arrastar os objetos quadrados identificados como "1","2" e "3" para area que se localiza logo a baixo, colocando cada um no seu canto.
-- Acertando a ordem correta a area em volta dos quadrados fica em verde, caso contrário vermelho
+- [x] Você pode arrastar os objetos quadrados identificados como "1","2" e "3" para area que se localiza logo a baixo, colocando cada um no seu canto.
+- [x] Acertando a ordem correta a area em volta dos quadrados fica em verde, caso contrário vermelho
 
 ## Tecnologias 🛠
 
 Desenvolvido utilizando as seguintes tecnologias:
 
-- HTML5
-- CSS3
-- JavaScript
+- [HTML5](https://www.w3schools.com/html/default.asp)
+- [CSS3](https://www.w3schools.com/css/)
+- [JavaScript](https://www.javascript.com/)
 
 ****************
 
