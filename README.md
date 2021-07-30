@@ -1,3 +1,7 @@
+<div align='center'>
+  <img height='400px' alt='Readme' title='Readme' src='./Animação.gif'>
+</div>
+
 ## Sobre o projeto 💬
 
 O **DragAndDrop** é uma aplicação WEB para testar as funcionalidades dos eventos de "drag" e "drop" do javascipt
